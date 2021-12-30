@@ -26,3 +26,19 @@ const isPrime = (num) => {
     }  
 }
 ``` 
+----
+### Skills:
+* HTML
+* PHP
+* Photoshop
+
+----
+### Experience:
+
+----
+### Education and courses:
+Kiev Polytechnic Institute - Automation Engineer
+
+----
+### Language:
+English level – B1
