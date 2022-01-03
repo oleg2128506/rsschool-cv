@@ -1,1 +1,39 @@
-/* Однострочный комментарий */
+body {
+    font-family: 'Hind Siliguri', sans-serif;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .container {
+    width: 700px;
+    margin: 0 auto;
+    }
+
+    .nav-list {
+        display: flex;
+        justify-content: space-between; 
+        align-items: center;
+        list-style: none;
+        transition: .3s;
+      }
+
+    html {
+    scroll-behavior: smooth; 
+    }
+
+    .link {
+      text-decoration: none;
+    }
+
+    .column {
+	height: 60px;
+	display: inline-block;
+	width: 30%;
+  text-align: center;
+    }
+
+    .year {
+      font-size: 1.5em;
+        }
